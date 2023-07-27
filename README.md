@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Velmurugan
-- 👀 I’m interested in Java, Selenium, ETL
-- 🌱 I’m currently exploring ETL
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Python,Java, Selenium, ETL
+- 🌱 I’m currently exploring on Stock market data analysis and pattern extraction.
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me velmuruganmecse@gmail.com
 
 <!---
